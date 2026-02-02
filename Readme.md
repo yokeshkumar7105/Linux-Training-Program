@@ -31,5 +31,13 @@ This repository contains the assignments that are I'm doing during my linux trai
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>Module <3/td>
+    <td>
+      <ul>
+        <li><a href="https://github.com/yokeshkumar7105/Linux-Training-Program/blob/main/Module%203/backup_manager.sh">Backup manager</a></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
