@@ -40,7 +40,7 @@ This repository contains the assignments that are I'm doing during my linux trai
     </td>
   </tr>
   <tr>
-    <td>Module 3</td>
+    <td>Module 4</td>
     <td>
       <ul>
         <li><a href="https://github.com/yokeshkumar7105/Linux-Training-Program/blob/main/Module%204/extraction.sh">Text Extraction (Input file)</a></li>
