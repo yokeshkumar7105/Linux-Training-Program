@@ -6,7 +6,7 @@ fi
 inp_file="$1"
 op_file="output.txt"
 if [ ! -f "$inp_file" ]; then
-    echo "Error: Input file does not exist."
+    echo "File does not exist."
     exit 1
 fi
 > "$op_file"
