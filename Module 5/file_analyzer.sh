@@ -46,7 +46,7 @@ if [[ "$@" == *"--help"* ]]; then
     show_help
     exit 0
 fi
-
+#getopts use
 while getopts ":d:k:f:" opt; do
     case $opt in
         d) DIR="$OPTARG" ;;
@@ -96,3 +96,6 @@ fi
 
 log_error "invalid use"
 exit 1
+
+
+
