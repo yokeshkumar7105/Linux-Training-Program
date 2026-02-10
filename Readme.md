@@ -47,5 +47,13 @@ This repository contains the assignments that are I'm doing during my linux trai
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>Module 5</td>
+    <td>
+      <ul>
+        <li><a href="https://github.com/yokeshkumar7105/Linux-Training-Program/blob/main/Module%205/file_analyzer.sh">File Analyzer</a></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
